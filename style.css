@@ -159,6 +159,13 @@ footer a#gemyo img {
     vertical-align: middle;
 }
 
+#store {
+    height:22px;
+    width:22px;
+    vertical-align: middle;
+}
+
+
 #cs {
     text-indent: 5%;
 }
