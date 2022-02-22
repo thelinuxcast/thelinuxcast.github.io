@@ -87,6 +87,10 @@ div.menu {
     margin: 0 auto;
 }
 
+div.player {
+    display:inline;
+}
+
 div.blogs {
     padding-bottom: 200px;
 }
