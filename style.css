@@ -87,8 +87,12 @@ div.menu {
     margin: 0 auto;
 }
 
+div.player {
+    display: flex;
+}
+
 iframe {
-    display: block;
+    justify-content: center;
 }
 
 div.blogs {
