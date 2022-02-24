@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Linux Cast</title>
+	<meta charset="utf-8">
+	<link rel="alternate" type="application/atom+xml" title="RSS Feed" href="/rss.xml">
+	<link rel="stylesheet" href="https://thelinuxcast.org/style.css" >
+	<link rel="shortcut icon" href="https://thelinuxcast.org/images/favicon.png">
+</head>
+<body>
+    <section>
+        <img src="../images/linux.png" alt="linux" class="lc"></img>
+        <h1 id="thelinuxcast">The Linux Cast</h1>
+            <pre><code>Daily Linux Content on YouTube and Odysee</code></pre>
+
+            <div class="menu">
+                <ul class="menu">
+                    <li><a href="https://youtube.com/thelinuxcast" target=_blank><img src="../images/youtube.png" id="youtube"> Subscribe on YouTube</a> | </li>
+                    <li><a href="https://anchor.fm/thelinuxcast" target=_blank><img src="../images/anchor.png" id="anchor">Subscribe on Anchor</a> | </li>
+                    <li><a href="https://patreon.com/thelinuxcast"><img src="../images/patreon.png" target=_blank id="patreon"> Support on Patreon</a> | </li>
+                    <li><a href="https://zaney.creator-spring.com/"><img src="../images/store.png" target=_blank id="store"> Shop</a></li>
+                </ul>
+            </div>
+
+                <h1>Contact Us</h1>
+                    http://twitter.com/thelinuxcast
+                    Subscribe at http://thelinuxcast.org
+                    Contact us email@thelinuxcast.com
+                    https://facebook.com/thelinuxcast
+                    Telegram Group - https://t.me/+9lYoIuLh0JIyMzcx
+                    Tyler - https://bit.ly/3wk9LNy on Odysee ,  https://youtube.com/ZaneyOG on YouTube and on Discord https://discord.gg/bpyzraKDJC
+                    https://youtube.com/thelinuxcast 
+                    The store - https://zaney.creator-spring.com/
+                    Logo Courtesy of pedropaulo.net
+                    Odysee - https://odysee.com/$/invite/@thelinuxcast:4
+                    Mastadon - @drmdub@distrotoot.com
+
+            <footer>
+            <div class="menu">
+                <ul class="menu">
+                    <a href="mailto:email@thelinuxcast.org"> Email Us</a> | 
+                    <a href="https://youtube.com/ZaneyOG" target=_blank>Tyler's Channel</a> | 
+                    <a href="https://anchor.fm/the-three-cast" target=_blank>The 3 Cast</a> | 
+                    <a href="https://discord.gg/qymrtrxA8a" target=_blank>Discord</a> | 
+                    <a href="https://twitter.com/thelinuxcast" target=_blank>Twitter</a> | 
+                    <a href="https://t.me/+9YoIuLh-JIyMzcx" target=_blank>Telegram</a>
+
+                </ul>
+            </div> 
+
+            <div class="menu">
+                <ul class="menu">
+                    <li><a href="https://youtube.com/thelinuxcast" target=_blank><img src="../images/youtube.png" id="youtube"> Subscribe on YouTube</a> | </li>
+                    <li><a href="https://anchor.fm/thelinuxcast" target=_blank><img src="../images/anchor.png" id="anchor">Subscribe on Anchor</a> | </li>
+                    <li><a href="https://patreon.com/thelinuxcast"><img src="../images/patreon.png" target=_blank id="patreon"> Support on Patreon</a> | </li>
+                    <li><a href="https://zaney.creator-spring.com/"><img src="../images/store.png" target=_blank id="store"> Shop</a></li>
+                </ul>
+            </div>
+            <hr>
+            <p class="ft"> Copyright 2021 The Linux Cast. Just kidding. All content under CC BY-SA 4.0 as always. Inspiration (and some code) for the site came from <a href="https://hexdsl.com/" target=_blank>HexDSL's old website.</a> </p>
+
+            </footer>
+
+    </section>
+</body>
+</html>
