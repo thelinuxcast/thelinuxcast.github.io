@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Linux Cast</title>
+	<meta charset="utf-8">
+	<link rel="alternate" type="application/atom+xml" title="RSS Feed" href="/rss.xml">
+	<link rel="stylesheet" href="style.css" >
+	<link rel="shortcut icon" href="/images/favicon.png">
+</head>
+<body>
+    <section>
+        <img src="images/linux.png" alt="linux" class="lc"></img>
+        <h1 id="thelinuxcast">The Linux Cast</h1>
+            <pre><code>Daily Linux Content on YouTube and Odysee</code></pre>
+
+            <p>This is the home of The Linux Cast. A website that has been promised for years and has finally been delivered. It's simple right now, but there will be more here in the future.</p>
+            <div class="menu">
+                <ul class="menu">
+                    <li><a href="https://youtube.com/thelinuxcast" target=_blank><img src="images/youtube.png" id="youtube"> Subscribe on YouTube</a> | </li>
+                    <li><a href="https://anchor.fm/thelinuxcast" target=_blank><img src="images/anchor.png" id="anchor">Subscribe on Anchor</a> | </li>
+                    <li><a href="https://patreon.com/thelinuxcast"><img src="images/patreon.png" target=_blank id="patreon"> Support on Patreon</a> | </li>
+                    <li><a href="https://zaney.creator-spring.com/"><img src="images/store.png" target=_blank id="store"> Shop</a></li>
+                </ul>
+            </div>
+            <h2 id="pods">Podcasts</h2>
+                      <div class="list">
+                <ul>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Does-Linux-Need-App-Parity-e1gia0o" target=_blank>Season 6 Episode 12 - Does Linux Need App Parity?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Linux-From-Scratch-e1g7bk8" target=_blank>Season 6 Episode 11 - Linux from Scratch?</a></li>
+<li><a href="https://anchor.fm/thelinuxcast/episodes/Linux-Sucks-And-So-Does-Everything-Else-e1fssro" target=_blank>Season 6 Episode 10 - Linux Sucks and So Does Everything Else</a></li>
+
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Should-You-Use-a-Firewall-on-Linux-e1fi4lc" target=_blank>Season 6 Episode 9 - Should You Use a Firewall?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Why-is-Rust-So-Popular-e1et03t" target=_blank>Season 6 Episode 8 - Why is Rust So Popular?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Is-Gentoo-The-Future-of-Linux-e1ek0nt" target=_blank>Season 6 Episode 7 - Is Gentoo The Future of Linux?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Is-Brave-a-Good-Browser---Or-Crypto-Nonsense-e1e83v8" target=_blank>Season 6 Episode 6 - Is Brave a Good Browser - Or Crypto Nonsense?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Are-Linux-Users-Toxic-e1dv2gl" target=_blank>Season 6 Episode 5 - Are Linux Users Toxic?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Why-is-NVIDIA-So-Anti-Linux-e1dicc2" target=_blank>Season 6 Episode 4 - Why is NVIDIA So Anti-Linux?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/Can-KDE-Beat-Gnome-e1d9nr7" target=_blank>Season 6 Episode 3 - Can KDE Beat Gnome?</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/How-to-Switch-To-Linux-Best-Practices-e1cu9p7" target=_blank>Season 6 Episode 2 - How to Switch To Linux (Best Practices)</a></li>
+                    <li><a href="https://anchor.fm/thelinuxcast/episodes/6-Predictions-for-Linux-in-2022-e1cloph" target=_blank>Season 6 Episode 1 - 6 Predictions for Linux in 2022</a></li>
+                </ul>
+
+            </div>
+            <h2 id="Videos">Videos</h2>
+            <div class="list">
+                    <h3 id="cs"> Coming Soon </h3>
+                <ul id="vids">
+                </ul>
+            </div>
+
+            <div class="blogs">
+            <h2 id="blog">Blog Posts</h2>
+            <ul>
+                <li><a href="https://thelinuxcast.org/blog/2022/Mar/audiostillsucks"> Audio on Linux Still Sucks</a></li>
+                <li><a href="https://thelinuxcast.org/blog/2022/Mar/ilikeflatpaks"> I Kinda Like Flatpaks</a></li>
+                <li><a href="https://thelinuxcast.org/blog/2022/Mar/theapplewatchsucks"> I Bought an Apple Watch...And It Kinda Sucks</a></li>
+                <li><a href="https://thelinuxcast.org/blog/2022/Feb/myloveaffairwithkrusader"> My Love Affair With Krusader</a></li>
+            </ul>
+
+            </div>
+            <footer>
+            <div class="menu">
+                <ul class="menu">
+                    <a href="mailto:email@thelinuxcast.org"> Email Us</a> | 
+                    <a href="https://youtube.com/ZaneyOG" target=_blank>Tyler's Channel</a> | 
+                    <a href="https://anchor.fm/the-three-cast" target=_blank>The 3 Cast</a> | 
+                    <a href="https://discord.gg/qymrtrxA8a" target=_blank>Discord</a> | 
+                    <a href="https://twitter.com/thelinuxcast" target=_blank>Twitter</a> | 
+                    <a href="https://t.me/+9YoIuLh-JIyMzcx" target=_blank>Telegram</a>
+
+                </ul>
+            </div> 
+
+            <div class="menu">
+                <ul class="menu">
+                    <li><a href="https://youtube.com/thelinuxcast" target=_blank><img src="images/youtube.png" id="youtube"> Subscribe on YouTube</a> | </li>
+                    <li><a href="https://anchor.fm/thelinuxcast" target=_blank><img src="images/anchor.png" id="anchor">Subscribe on Anchor</a> | </li>
+                    <li><a href="https://patreon.com/thelinuxcast"><img src="images/patreon.png" target=_blank id="patreon"> Support on Patreon</a> | </li>
+                    <li><a href="https://zaney.creator-spring.com/"><img src="images/store.png" target=_blank id="store"> Shop</a></li>
+                </ul>
+            </div>
+            <hr>
+            <p class="ft"> Copyright 2022 The Linux Cast. Just kidding. All content under CC BY-SA 4.0 as always. Inspiration (and some code) for the site came from <a href="https://hexdsl.com/" target=_blank>HexDSL's old website.</a> </p>
+
+            </footer>
+
+    </section>
+</body>
+</html>
